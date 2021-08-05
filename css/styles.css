@@ -17,13 +17,18 @@ body {
 .link {
   background-color: white;
   padding: 3px;
-}
-
-.description p{
-  background-color: burlywood;
+  font-style: italic;
 }
 
 img {
-  margin: 5px;
+  margin: 30px;
   float: left;
+
+}
+
+.description {
+  background-color: burlywood;
+  width: 500px;
+  float: right;
+  margin: 30px;
 }
