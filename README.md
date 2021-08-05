@@ -2,7 +2,7 @@
 
 #### _A website to display the animals available for adoption at the fictional, Pawnee Animal Shelter._
 
-#### By _**{List of contributors}**_
+#### By _**Anna Clarke**_
 
 ## Technologies Used
 
