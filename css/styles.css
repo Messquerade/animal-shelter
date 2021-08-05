@@ -1,0 +1,10 @@
+.column {
+  background-color: blueviolet;
+  color: white;
+  padding: 10px;
+  float: left;
+  width: 30%;
+  box-sizing: border-box;
+  margin: 10px;
+  
+}
