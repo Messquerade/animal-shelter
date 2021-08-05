@@ -4,7 +4,7 @@ body {
 
 
 .column {
-  background-color: blueviolet;
+  background-color: rgb(136, 66, 202);
   color: white;
   padding: 10px;
   float: left;
@@ -34,5 +34,6 @@ img {
 }
 
 .reviews {
-  
+  background-color: burlywood;
+
 }
